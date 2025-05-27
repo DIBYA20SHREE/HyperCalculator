@@ -4,7 +4,7 @@ Calculator App
 A clean, minimal, and responsive Calculator App built with Kotlin for Android. It supports basic arithmetic operations and follows modern Android development practices.
 
 <p align="center">
-  <img src="Screenshot (214).png" width="250" alt="Calculator Light Mode Screenshot"/>
+  <img src="Screenshot (214).png" width="348" height="757" alt="Calculator Light Mode Screenshot"/>
 </p>
 
 ---
